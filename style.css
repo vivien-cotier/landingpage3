@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Playfair+Display:ital,wght@0,400;1,500&family=RocknRoll+One&display=swap');
+body {
+	font-family: 'Playfair Display', serif;
+	font-size: 15px;
+	margin: 0px;
+}
+
+h1,h2,h3 {
+font-family: "RocknRoll One", sans-serif;
+font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}

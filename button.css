@@ -1,0 +1,13 @@
+.btn-black{
+	background-color: black;
+	color: whitesmoke;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-family: "RocknRoll One", sans-serif;
+	text-align: center;
+}
+
+.btn-black hover {
+	background-color: rgb(30,30,30);
+	color: #FFC93C ;
+}

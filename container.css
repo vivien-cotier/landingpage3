@@ -1,0 +1,25 @@
+.container {
+	width: 90%;
+	margin: 30px;
+}
+
+
+@media (max-width:  700px) {
+ .container {
+ 	width: 50%;
+	}
+}
+
+@media (max-width:  600px) {
+ .container {
+ 	width: 90%;
+	}
+}
+
+@media (max-width:  480px) {
+ .container {
+ 	width: 90%;
+	}
+}
+
+

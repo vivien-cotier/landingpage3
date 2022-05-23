@@ -1,0 +1,52 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.35) 50%), url(../../images/background.jpg);
+	color: whitesmoke;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	border-bottom-width: medium;
+	border-bottom: rgb(30,30,30);
+	border-bottom-style: double ;
+
+}
+
+.banner h1 {
+	font-size:  50px;
+	text-align: center;
+}
+
+.banner h2 {
+	font-size:  30px;
+	font-weight:  lighter;
+	opacity: 0.9;
+	margin-bottom: 40px;
+	text-align: center;
+}
+.banner a:hover {
+	background-color: rgb(30,30,30);
+	color: #FFC93C ;
+}
+@media (max-width:  1200px) {
+ .banner {
+ 	width: 100%;
+	}
+}
+
+@media (max-width:  1024px) {
+ .banner {
+ 	width: 100%;
+	}
+}
+
+@media (max-width:  768px) {
+ .banner {
+ 	width: 100%;
+	}
+}
+@media (max-width:  480px) {
+ .banner {
+ 	width: 100%;
+	}
+}
+

@@ -1,0 +1,32 @@
+.content-cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 60px;
+}
+
+
+.content-card {
+    padding: 30px;
+    padding-bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 20%);
+    border-radius: 10px;
+    margin: 6px;
+    
+    background-image: radial-gradient(circle farthest-side, black, #c5d5cb);
+    flex-basis: 150px;
+    flex-grow: 1;
+    flex-direction: column;
+}
+
+.content-card iframe {
+    width: 400px ;
+    height: 215px ;
+    border-radius: 10px;
+}
+
+.content-card h2{
+    font-family: playfair-display;
+}
